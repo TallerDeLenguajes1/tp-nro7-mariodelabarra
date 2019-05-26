@@ -1,0 +1,7 @@
+C:\Users\mario\Documents\Facultad\Taller de Programacion I\Taller\tp-nro7-mariodelabarra\TP7_MariodelaBarra\TP7\bin\Debug\TP7.exe.config
+C:\Users\mario\Documents\Facultad\Taller de Programacion I\Taller\tp-nro7-mariodelabarra\TP7_MariodelaBarra\TP7\bin\Debug\TP7.exe
+C:\Users\mario\Documents\Facultad\Taller de Programacion I\Taller\tp-nro7-mariodelabarra\TP7_MariodelaBarra\TP7\bin\Debug\TP7.pdb
+C:\Users\mario\Documents\Facultad\Taller de Programacion I\Taller\tp-nro7-mariodelabarra\TP7_MariodelaBarra\TP7\obj\Debug\TP7.csprojAssemblyReference.cache
+C:\Users\mario\Documents\Facultad\Taller de Programacion I\Taller\tp-nro7-mariodelabarra\TP7_MariodelaBarra\TP7\obj\Debug\TP7.csproj.CoreCompileInputs.cache
+C:\Users\mario\Documents\Facultad\Taller de Programacion I\Taller\tp-nro7-mariodelabarra\TP7_MariodelaBarra\TP7\obj\Debug\TP7.exe
+C:\Users\mario\Documents\Facultad\Taller de Programacion I\Taller\tp-nro7-mariodelabarra\TP7_MariodelaBarra\TP7\obj\Debug\TP7.pdb
